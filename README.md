@@ -96,8 +96,8 @@ This project is a web scraper for extracting sponsored products from [Amazon Ind
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/your-username/amazon-scraper.git
-cd amazon-scraper
+git clone https://github.com/Ayantika-dhar/Reddit-Twitter-AI-Bot-and-Amazon-Web-Scrapper.git
+cd Reddit-Twitter-AI-Bot-and-Amazon-Web-Scrapper/Task_2/Task_2_Part_1_AmazonScrapper
 ```
 
 ### Install Dependencies
@@ -108,7 +108,7 @@ pip install -r requirements.txt
 
 #### Using Docker (Recommended)
 ```bash
-docker build -t amazon-scraper .
+docker build -t Task_2_Part_1_AmazonScrapper .
 ```
 
 ---
@@ -122,7 +122,7 @@ python scrapper.py
 
 ### Run in Docker (Recommended)
 ```bash
-docker run --rm amazon-scraper
+docker run --rm Task_2_Part_1_AmazonScrapper
 ```
 
 ---
@@ -147,7 +147,7 @@ pip install --upgrade webdriver-manager
 
 ---
 
-#Task 2(Part 1) : Data Cleaning and Analysis of scrapped data
+#Task 2(Part 2 and 3) : Data Cleaning and Analysis of scrapped data
 
 
 1. Clone the repository and upload `Amazon_sponsored_products` to your environment.
