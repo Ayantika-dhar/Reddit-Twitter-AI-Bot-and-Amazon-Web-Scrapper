@@ -147,7 +147,7 @@ pip install --upgrade webdriver-manager
 
 ---
 
-#Task 2(Part 2 and 3) : Data Cleaning and Analysis of scrapped data
+##Task 2(Part 2 and 3) : Data Cleaning and Analysis of scrapped data
 
 
 1. Clone the repository and upload `Amazon_sponsored_products` to your environment.
